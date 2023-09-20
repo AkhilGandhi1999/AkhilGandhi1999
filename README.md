@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [AkhilGandhi1999](https://github.com/AkhilGandhi1999)
 
-- 💬 Ask me about **vue, aws, linux**
+- 💬 Ask me about **vue, aws, Linux**
 
 - 📫 How to reach me **akhil.gandhi10.ag@gmail.com**
 
