@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgandhi1999&label=Profile%20views&color=0e75b6&style=flat" alt="akhilgandhi1999" /> </p>
 
-- 🔭 I’m currently working on **Personal Website**
+- 🔭 I’m currently working at **Charter Communications**
 
-- 🌱 I’m currently learning **Svelte, Typescript, AWS**
+- 🌱 I’m currently learning **GCP, Istio**
 
 - 👨‍💻 All of my projects are available at [AkhilGandhi1999](https://github.com/AkhilGandhi1999)
 
-- 💬 Ask me about **vue, aws, Linux**
+- 💬 Ask me about **Vue, AWS, Terraform**
 
 - 📫 How to reach me **akhil.gandhi10.ag@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1X4-RefVdZm4YkRE34OGhG1a-u-dGpkYw/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
